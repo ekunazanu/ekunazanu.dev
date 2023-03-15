@@ -8,6 +8,43 @@
     <language>en-in</language>
     <managingEditor>me@ekunazanu.dev (Anchit Roy)</managingEditor>
     <webMaster>me@ekunazanu.dev (Anchit Roy)</webMaster>
-    <copyright>Creative Commons Attribution-ShareAlike 4.0 International License</copyright><atom:link href="https://ekunazanu.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Creative Commons Attribution-ShareAlike 4.0 International License</copyright>
+    <lastBuildDate>Fri, 03 Mar 2023 03:36:10 +0530</lastBuildDate><atom:link href="https://ekunazanu.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematics</title>
+      <link>https://ekunazanu.dev/categories/mathematics/</link>
+      <pubDate>Fri, 03 Mar 2023 03:36:10 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/categories/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics</title>
+      <link>https://ekunazanu.dev/categories/physics/</link>
+      <pubDate>Fri, 03 Mar 2023 03:36:10 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/categories/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://ekunazanu.dev/categories/data-science/</link>
+      <pubDate>Wed, 01 Mar 2023 12:48:27 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/categories/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Science</title>
+      <link>https://ekunazanu.dev/categories/computer-science/</link>
+      <pubDate>Sat, 25 Feb 2023 15:27:50 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/categories/computer-science/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

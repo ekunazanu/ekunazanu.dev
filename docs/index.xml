@@ -11,12 +11,147 @@
     <copyright>Creative Commons Attribution-ShareAlike 4.0 International License</copyright>
     <lastBuildDate>Wed, 22 Feb 2023 00:10:23 +0530</lastBuildDate><atom:link href="https://ekunazanu.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Shor&#39;s Algorithm, Part II</title>
+      <link>https://ekunazanu.dev/blog/shors-algorithm-2/</link>
+      <pubDate>Fri, 03 Mar 2023 03:36:10 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/shors-algorithm-2/</guid>
+      <description>Explaining the weird world of quantum mechanics to break encryption</description>
+    </item>
+    
+    <item>
+      <title>Shor&#39;s Algorithm, Part I</title>
+      <link>https://ekunazanu.dev/blog/shors-algorithm-1/</link>
+      <pubDate>Fri, 03 Mar 2023 03:22:39 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/shors-algorithm-1/</guid>
+      <description>Explaining how encryption can be broken with quantum computers</description>
+    </item>
+    
+    <item>
+      <title>The p-value</title>
+      <link>https://ekunazanu.dev/blog/p-value/</link>
+      <pubDate>Wed, 01 Mar 2023 12:48:27 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/p-value/</guid>
+      <description>under 160 chars</description>
+    </item>
+    
+    <item>
+      <title>Quaternions vs Vectors</title>
+      <link>https://ekunazanu.dev/blog/quaternions-vs-vectors/</link>
+      <pubDate>Wed, 01 Mar 2023 00:36:22 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/quaternions-vs-vectors/</guid>
+      <description>under 160 chars</description>
+    </item>
+    
+    <item>
+      <title>Probabilisitc Data Structures</title>
+      <link>https://ekunazanu.dev/blog/probabilisitc-data-structures/</link>
+      <pubDate>Sat, 25 Feb 2023 15:27:50 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/probabilisitc-data-structures/</guid>
+      <description>under 160 chars</description>
+    </item>
+    
+    <item>
+      <title>Hashing</title>
+      <link>https://ekunazanu.dev/blog/hashing/</link>
+      <pubDate>Sat, 25 Feb 2023 14:56:58 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/hashing/</guid>
+      <description>under 160 chars</description>
+    </item>
+    
+    <item>
+      <title>Getting Started With Julia</title>
+      <link>https://ekunazanu.dev/blog/getting-started-with-julia/</link>
+      <pubDate>Wed, 22 Feb 2023 04:04:41 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/getting-started-with-julia/</guid>
+      <description>Using R to visualize map data</description>
+    </item>
+    
+    <item>
+      <title>Splines</title>
+      <link>https://ekunazanu.dev/blog/splines/</link>
+      <pubDate>Wed, 22 Feb 2023 03:22:30 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/splines/</guid>
+      <description>Explaining how Bézier Curves and other types of splines are drawn</description>
+    </item>
+    
+    <item>
+      <title>The Advanced Encryption Standard</title>
+      <link>https://ekunazanu.dev/blog/aes/</link>
+      <pubDate>Wed, 22 Feb 2023 03:22:22 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/aes/</guid>
+      <description>under 160 chars</description>
+    </item>
+    
+    <item>
+      <title>The RSA Cryptosystem</title>
+      <link>https://ekunazanu.dev/blog/rsa/</link>
+      <pubDate>Wed, 22 Feb 2023 03:22:19 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/rsa/</guid>
+      <description>Explaining primes and one-way functions using the RSA cryptosystem</description>
+    </item>
+    
+    <item>
+      <title>The Fast Fourier Transform</title>
+      <link>https://ekunazanu.dev/blog/fast-fourier-transform/</link>
+      <pubDate>Wed, 22 Feb 2023 03:22:02 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/fast-fourier-transform/</guid>
+      <description>Explaining the importance of algorithmic efficiency using the Fast Fourier Transform</description>
+    </item>
+    
+    <item>
+      <title>The Discrete Fourier Transform</title>
+      <link>https://ekunazanu.dev/blog/discrete-fourier-transform/</link>
+      <pubDate>Wed, 22 Feb 2023 03:21:23 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/discrete-fourier-transform/</guid>
+      <description>Explaining how the discrete version of the Fourier Transform works</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://ekunazanu.dev/about/</link>
       <pubDate>Wed, 22 Feb 2023 00:10:23 +0530</pubDate>
       <author>me@ekunazanu.dev (Anchit Roy)</author>
       <guid>https://ekunazanu.dev/about/</guid>
       <description>Hi! I am Anchit. I am a first year computer science undergraduate student currently studying at Manipal Institute of Technology, Bengaluru. I like math, statistics, and progressive rock.</description>
+    </item>
+    
+    <item>
+      <title>The Fourier Transform</title>
+      <link>https://ekunazanu.dev/blog/fourier-transform/</link>
+      <pubDate>Wed, 22 Feb 2023 00:01:03 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/fourier-transform/</guid>
+      <description>Explaining how the Fourier Transform converts a time domain signals to a frequency domain signals</description>
+    </item>
+    
+    <item>
+      <title>The Euler&#39;s Identity</title>
+      <link>https://ekunazanu.dev/blog/eulers-identity/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:35 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/eulers-identity/</guid>
+      <description>If you have ever enrolled in any of the STEM disciplines, chances are you would&amp;rsquo;ve come across Euler. Now there&amp;rsquo;s a lot of genius things he came up with, but one of the most well known (and also one of the most elegant) has to be the Euler&amp;rsquo;s Identity</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://ekunazanu.dev/blog/testtemplate/</link>
+      <pubDate>Sat, 22 Feb 2020 00:01:05 +0530</pubDate>
+      <author>me@ekunazanu.dev (Anchit Roy)</author>
+      <guid>https://ekunazanu.dev/blog/testtemplate/</guid>
+      <description>This is a test page not meant for publication</description>
     </item>
     
   </channel>
